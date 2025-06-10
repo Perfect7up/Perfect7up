@@ -108,7 +108,7 @@ I'm always open to:
 
 <div align="center">
   
-[![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
+[![Visitors](https://komarev.com/ghpvc/?username=Perfect7up&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
   
 ⭐️ **Fun Fact:** I once built a weather app that became my city's most accurate forecast source during monsoon season! ⭐️
   
