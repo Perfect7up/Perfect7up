@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Mansoor Ahmad 👋</h1>
 
 <p align="center">
   A passionate Full-Stack Developer who brings ideas to life with code.
@@ -64,11 +64,10 @@ Form data is saved to a DB and validated with reCAPTCHA.
 
 ## 📬 Contact
 
-- 💼 Portfolio: [your-portfolio-url]
-- 📧 Email: [your-email]
-- 🐦 Twitter: [your-twitter]
-- 💻 LinkedIn: [your-linkedin]
-- 🌐 Blog: [optional-blog-link]
+- 💼 Portfolio: https://creativeportfo.vercel.app/
+- 📧 Email: iammansoor9906@gmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/mansoor-ahmad-2706b1300/
+- 🌐 Blog: https://bloghideout.vercel.app/
 
 ---
 
