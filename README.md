@@ -66,6 +66,7 @@ Form data is saved to a DB and validated with reCAPTCHA.
 
 - 💼 Portfolio: https://creativeportfo.vercel.app/
 - 📧 Email: iammansoor9906@gmail.com
+- 🐦 Twitter: https://x.com/perfect7up
 - 💻 LinkedIn: https://www.linkedin.com/in/mansoor-ahmad-2706b1300/
 - 🌐 Blog: https://bloghideout.vercel.app/
 
