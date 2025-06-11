@@ -82,11 +82,36 @@ More than just weather:
 
 ---
 
-## 📈 GitHub Stats
+
+## 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perfect7up&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perfect7up&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Perfect7up&show_icons=true&theme=radical" height="170" alt="Mansoor's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perfect7up&layout=compact&theme=radical" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perfect7up&theme=radical" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Perfect7up&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Perfect7up&theme=radical&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🗺️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perfect7up&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -109,7 +134,7 @@ I'm always open to:
 <div align="center">
   
 [![Visitors](https://komarev.com/ghpvc/?username=Perfect7up&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Perfect7up)
-  
-⭐️ **Fun Fact:** I once built a weather app that became my city's most accurate forecast source during monsoon season! ⭐️
-  
+
+🌟 **Fun Fact:** I once built a weather app that became my city's most accurate forecast source during monsoon season! 🌧️
+
 </div>
