@@ -101,7 +101,7 @@ Coffee Consumed:             ∞
 I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 📧 Email: [iammansoor9906@gmail.com](mailto:iammansoor9906@gmail.com)
-- 💼 Portfolio: [creativeportfo.vercel.app](https://creativeportfo.vercel.app/)
+- 💼 Portfolio: [mansoorahmad.vercel.app]([https://creativeportfo.vercel.app/](https://portfolio-mansoor.vercel.app/))
 - 🐦 X/Twitter: [@perfect7up](https://x.com/perfect7up)
 
 ---
