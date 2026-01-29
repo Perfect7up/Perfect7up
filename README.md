@@ -2,14 +2,14 @@
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://creativeportfo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mansoor-ahmad-2706b1300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/perfect7up"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:iammansoor9906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://creativeportfo.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mansoor-ahmad-2706b1300/">💼 LinkedIn</a> •
+  <a href="https://x.com/perfect7up">𝕏 Twitter</a> •
+  <a href="mailto:iammansoor9906@gmail.com">📧 Email</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Turning+ideas+into+functional+reality;Building+scalable+web+experiences;AI-powered+solutions+enthusiast" alt="Typing SVG" />
+  <em>Turning ideas into functional reality | Building scalable web experiences | AI-powered solutions enthusiast</em>
 </p>
 
 ---
@@ -28,9 +28,9 @@ Full-Stack Developer specializing in modern web applications with AI integration
 
 ```text
 Frontend:    Next.js • React • TypeScript • Tailwind CSS
-Backend:     Node.js • Express • PostgreSQL • MongoDB
-AI/ML:       DeepSeek • OpenRouter • LLM Integration
-Tools:       Git • Vercel • Supabase • Prisma
+Backend:     Node.js • Express • Python • .NET Core • PostgreSQL • MongoDB
+AI/ML:       DeepSeek • OpenRouter • LLM Integration • NLP
+Tools:       Git • Vercel • Supabase • Prisma • Docker
 ```
 
 ---
@@ -51,16 +51,48 @@ Multi-city weather app with historical trends and PWA capabilities
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Code Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perfect7up&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perfect7up&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
+```javascript
+const mansoorAhmad = {
+  code: ["TypeScript", "JavaScript", "Python", "C#"],
+  askMeAbout: ["web dev", "AI integration", "system design", "coffee"],
+  technologies: {
+    frontEnd: {
+      js: ["Next.js", "React"],
+      css: ["Tailwind", "Styled Components"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      python: ["FastAPI", "Django"],
+      dotnet: [".NET Core", "ASP.NET"]
+    },
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    ai: ["DeepSeek", "OpenRouter", "Langchain"]
+  },
+  architecture: ["Microservices", "Event-Driven", "Serverless"],
+  currentFocus: "Building AI-powered web applications",
+  funFact: "I debug in my sleep... literally"
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perfect7up&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<details>
+<summary>📈 My Coding Journey in Numbers</summary>
+
+```
+Total Commits (2024):        1,247+ 
+Current Streak:              42 days
+Longest Streak:              89 days
+Languages Used:              12+
+Projects Shipped:            23
+Coffee Consumed:             ∞
+```
+
+**Most Productive Time:** 🌙 Night Owl (9 PM - 2 AM)  
+**Favorite Stack:** Next.js + PostgreSQL + TypeScript  
+**Currently Learning:** Advanced LLM Integration & System Design Patterns
+
+</details>
 
 ---
 
@@ -76,8 +108,8 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Perfect7up&label=Profile%20Views&color=22c55e&style=flat)
-
 *"Building the future, one commit at a time"* 💻
+
+⭐️ From [Perfect7up](https://github.com/Perfect7up)
 
 </div>
